@@ -1,0 +1,1787 @@
+Push +
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :initialize
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :initialize
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:---- s:0003 e:000002 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0009 e:000008 CFUNC  :initialize
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :new
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :inherited
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:---- s:0006 e:000005 CFUNC  :set_encoding
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0002 p:0000 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0007 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0004 p:0000 s:0013 e:000012 BLOCK  ../ruby/test.rb:1 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0015 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0006 p:---- s:0021 e:000020 CFUNC  :inspect
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0006 p:---- s:0021 e:000020 CFUNC  :inspect
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0004 p:0013 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0004 p:0000 s:0013 e:000012 BLOCK  ../ruby/test.rb:1 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0015 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Push +
+c:0006 p:---- s:0021 e:000020 CFUNC  :inspect
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0006 p:---- s:0021 e:000020 CFUNC  :inspect
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0005 p:---- s:0018 e:000017 CFUNC  :p
+c:0004 p:0010 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0004 p:0013 s:0013 e:000012 BLOCK  ../ruby/test.rb:2 [FINISH]
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0003 p:---- s:0010 e:000009 CFUNC  :times
+c:0002 p:0008 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
+Pop  -
+c:0002 p:0009 s:0006 e:000005 EVAL   ../ruby/test.rb:1 [FINISH]
+c:0001 p:0000 s:0003 E:0012e0 (none) [FINISH]
+
