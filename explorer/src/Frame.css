@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.Frame-Header {
+  background-color: #aaa;
+  padding: 5px 0 20px;
+}
+
+.Frame-Header-list {
+  padding: 0;
+  margin: 0;
+}
+
+.Frame-Header-listItem {
+  list-style: none;
+}
+
+
 .Frame-content {
   display: flex;
   flex-direction: column;

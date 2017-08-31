@@ -3,6 +3,7 @@ import frames from './frames.json';
 import './Frame.css';
 
 class Frame extends Component {
+  // TODO: seperate to an another component
   renderStacks(stacks) {
     return Array.from(stacks).map((stack, index) => {
       return (
@@ -25,19 +26,31 @@ class Frame extends Component {
 
   renderFrames() {
     return Array.from(frames).map((frame) => {
-      console.log(frame);
       return (
         <div className="Frame-content">
-          <h2>{frame.type}</h2>
+          <h3>{frame.type}</h3>
           {this.renderStacks(frame.stacks)}
         </div>
       );
     });
   }
 
+  renderHeader() {
+    console.log(frames);
+    return (
+      <div className="Frame-Header">
+        <h2>Stack Frames</h2>
+        <ul className="Frame-Header-list">
+          <li className="Frame-Header-listItem">Total Frames: {frames.length}</li>
+        </ul>
+      </div>
+    );
+  }
+
   render() {
     return (
       <div className="Frame">
+        {this.renderHeader()}
         {this.renderFrames()}
       </div>
     );
