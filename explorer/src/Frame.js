@@ -25,10 +25,10 @@ class Frame extends Component {
   }
 
   renderFrames() {
-    return Array.from(frames).map((frame) => {
+    return Array.from(frames).map((frame, index) => {
       return (
         <div className="Frame-content">
-          <h3>{frame.type}</h3>
+          <h3>{frame.type} ({index + 1})</h3>
           {this.renderStacks(frame.stacks)}
         </div>
       );
