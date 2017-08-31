@@ -52,7 +52,9 @@ class Frame extends Component {
     return (
       <div className="Frame">
         {this.renderHeader()}
-        {this.renderFrames()}
+        <div className="Frame-body">
+          {this.renderFrames()}
+        </div>
       </div>
     );
   }

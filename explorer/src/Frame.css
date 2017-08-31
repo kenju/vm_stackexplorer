@@ -16,11 +16,17 @@
   list-style: none;
 }
 
+.Frame-body {
+  display: flex;
+  width: 100vw;
+  overflow: scroll;
+}
 
 .Frame-content {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-left: 20px;
 }
 
 .Stack-row {
