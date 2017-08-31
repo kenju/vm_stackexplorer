@@ -1,0 +1,19 @@
+.Frame {
+  text-align: center;
+}
+
+.Frame-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Stack-list {
+  border: 3px solid black;
+  padding: 5px;
+  width: 300px;
+}
+
+.Stack-listItem {
+  list-style: none;
+}

@@ -1,0 +1,655 @@
+[
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0001",
+        "pc": "----",
+        "sp": "0003",
+        "ep": "000002",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0002",
+        "pc": "0000",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0007",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0004",
+        "pc": "0000",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0015",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0006",
+        "pc": "----",
+        "sp": "0021",
+        "ep": "000020",
+        "type": "CFUNC",
+        "insns": ":inspect"
+      },
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0006",
+        "pc": "----",
+        "sp": "0021",
+        "ep": "000020",
+        "type": "CFUNC",
+        "insns": ":inspect"
+      },
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0004",
+        "pc": "0013",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0004",
+        "pc": "0000",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0015",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "push",
+    "stacks": [
+      {
+        "count": "0006",
+        "pc": "----",
+        "sp": "0021",
+        "ep": "000020",
+        "type": "CFUNC",
+        "insns": ":inspect"
+      },
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0006",
+        "pc": "----",
+        "sp": "0021",
+        "ep": "000020",
+        "type": "CFUNC",
+        "insns": ":inspect"
+      },
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0005",
+        "pc": "----",
+        "sp": "0018",
+        "ep": "000017",
+        "type": "CFUNC",
+        "insns": ":p"
+      },
+      {
+        "count": "0004",
+        "pc": "0010",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0004",
+        "pc": "0013",
+        "sp": "0013",
+        "ep": "000012",
+        "type": "BLOCK",
+        "insns": "../ruby/test.rb:2"
+      },
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0003",
+        "pc": "----",
+        "sp": "0010",
+        "ep": "000009",
+        "type": "CFUNC",
+        "insns": ":times"
+      },
+      {
+        "count": "0002",
+        "pc": "0008",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  },
+  {
+    "type": "pop",
+    "stacks": [
+      {
+        "count": "0002",
+        "pc": "0009",
+        "sp": "0006",
+        "ep": "000005",
+        "type": "EVAL",
+        "insns": "../ruby/test.rb:1"
+      },
+      {
+        "count": "0001",
+        "pc": "0000",
+        "sp": "0003",
+        "ep": "0012e0",
+        "type": "(none)",
+        "insns": "[FINISH]"
+      }
+    ]
+  }
+]
