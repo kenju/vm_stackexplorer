@@ -1,6 +1,6 @@
 require 'json'
 
-LOG_FILE_PATH = './log_original.txt'
+LOG_FILE_PATH = './log.txt'
 
 IGNORE_INSNS = %w(:inherited :set_encoding :initialize :new)
 
