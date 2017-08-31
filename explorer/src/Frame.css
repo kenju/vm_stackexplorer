@@ -8,12 +8,25 @@
   align-items: center;
 }
 
+.Stack-row {
+  display: flex;
+  align-items: center;
+}
+
+.Stack-num {
+  margin-right: 10px;
+}
+
 .Stack-list {
-  border: 3px solid black;
-  padding: 5px;
-  width: 300px;
+  border: 1px solid black;
+  padding: 0;
+  width: 240px;
+  margin: 0;
 }
 
 .Stack-listItem {
   list-style: none;
+  border-bottom: 1px solid black;
+  padding: 3px 0 2px 80px;
+  text-align: left;
 }
