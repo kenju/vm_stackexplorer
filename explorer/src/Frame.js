@@ -42,6 +42,7 @@ class Frame extends Component {
         <h2>Stack Frames</h2>
         <ul className="Frame-Header-list">
           <li className="Frame-Header-listItem">Total Frames: {frames.length}</li>
+          <li className="Frame-Header-listItem">Original Codes: `2.times do |n| p 'hello world' end` </li>
         </ul>
       </div>
     );
